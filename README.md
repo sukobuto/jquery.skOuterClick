@@ -1,6 +1,8 @@
 jquery.skOuterClick
 ===================
 
+About: [【jQuery】要素の”外側”のクリックイベントを捕捉「skOuterClick」](http://sukobuto.com/archives/261)
+
 skOuterClick - A simple event-binder-plugin to handle click events of outside elements.
 Copyright (c) 2014 SUKOBUTO All rights reserved.
 
